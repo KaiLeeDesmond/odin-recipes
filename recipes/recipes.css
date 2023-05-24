@@ -1,0 +1,19 @@
+body{
+    margin:10px;
+    font-family: 'Segoe UI';
+    background-color: #111827;
+    color: #D1D5DB;
+}
+h1,h3{
+    color: #F3F4F6;
+}
+div{
+    font-family: 'Segoe UI';
+    text-align: center;
+}
+a{
+    font-family: 'Segoe UI';
+    color: #A9792B;
+}
+
+a:hover { text-decoration: none; }
